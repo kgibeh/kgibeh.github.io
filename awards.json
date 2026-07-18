@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 600"><defs><linearGradient id="p" x1="0" x2="1"><stop stop-color="#18324b"/><stop offset="1" stop-color="#2a6f62"/></linearGradient></defs><rect width="500" height="600" rx="28" fill="url(#p)"/><circle cx="250" cy="205" r="92" fill="#d9c2a4"/><path d="M160 205c8-95 174-115 184 5-42-44-131-45-184-5" fill="#17202b"/><rect x="128" y="290" width="244" height="235" rx="110" fill="#122f48"/><path d="M205 305l45 88 45-88" fill="#f4f7f6"/><path d="M236 328h28l12 140h-52z" fill="#2a9d8f"/><text x="250" y="570" text-anchor="middle" fill="#d9f4eb" font-family="Arial" font-size="22">Replace with professional portrait</text></svg>
+[
+  {
+    "title": "Award-winning poster",
+    "event": "Add conference name",
+    "year": 2024,
+    "award": "Add award title",
+    "summary": "Use this featured slot for your strongest poster. Add a PDF or image in assets/img/posters."
+  },
+  {
+    "title": "Conference poster",
+    "event": "Add conference name",
+    "year": 2024,
+    "award": "",
+    "summary": "Posters can remain grouped on one page, while award-winning posters receive dedicated detail pages."
+  }
+]
