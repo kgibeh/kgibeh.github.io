@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://kgibeh.github.io/</loc>
-  </url>
-  <url>
-    <loc>https://kgibeh.github.io/papers/urban-tree-crown-detection-2025/</loc>
-  </url>
-  <url>
-    <loc>https://kgibeh.github.io/papers/albizia-light-water-2024/</loc>
-  </url>
-  <url>
-    <loc>https://kgibeh.github.io/papers/annona-muricata-potting-media-2024/</loc>
-  </url>
-  <url>
-    <loc>https://kgibeh.github.io/papers/dennettia-organic-manure-2020/</loc>
-  </url>
-  <url>
-    <loc>https://kgibeh.github.io/papers/albizia-seed-germination-2020/</loc>
-  </url>
-  <url>
-    <loc>https://kgibeh.github.io/papers/gully-erosion-southeastern-nigeria-2023/</loc>
-  </url>
+  <url><loc>https://kgibeh.github.io/</loc></url>
+  <url><loc>https://kgibeh.github.io/research.html</loc></url>
+  <url><loc>https://kgibeh.github.io/publications.html</loc></url>
+  <url><loc>https://kgibeh.github.io/projects.html</loc></url>
+  <url><loc>https://kgibeh.github.io/posters.html</loc></url>
+  <url><loc>https://kgibeh.github.io/awards.html</loc></url>
+  <url><loc>https://kgibeh.github.io/teaching.html</loc></url>
+  <url><loc>https://kgibeh.github.io/data-software.html</loc></url>
+  <url><loc>https://kgibeh.github.io/archive.html</loc></url>
+  <url><loc>https://kgibeh.github.io/cv.html</loc></url>
+  <url><loc>https://kgibeh.github.io/contact.html</loc></url>
 </urlset>
